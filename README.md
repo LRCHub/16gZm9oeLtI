@@ -3,69 +3,76 @@
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:00.28] 思い出すのは君の歌
-[00:03.55] 会話よりも鮮明だ
-[00:06.72] どこに行ってしまったの
-[00:09.94] いつも探すんだよ
-[00:13.94] 
-[00:13.21] 思い出すのは君の歌
-[00:16.18] 歌い笑う顔が鮮明だ
-[00:19.49] 君に似合うんだよ
-[00:22.69] ずっと見ていたいよ
-[00:27.19] 
-[00:26.09] でも最後に見たいのは
-[00:29.22] きっともう君の夢の中
-[00:32.34] もう一度 また聞かせてくれよ
-[00:36.68] 聞きたいんだ
-[00:39.68] 
-[00:38.36] もっと騒げ怪獣の歌
-[00:43.75] まだ消えない 夢の歌唱えて
-[00:50.60] 君がいつも歌う怪獣の歌
-[00:56.49] まだ消えない 口ずさんでしまうよ
-[01:04.49] 
-[01:04.33] 思い出すのは 君がいた
-[01:07.69] ギター持ってる 君がいた
-[01:10.95] 忘れられないんだよ
-[01:14.02] だから僕が歌うよ
-[01:18.02] 
-[01:17.42] でも最後に見たいのは
-[01:20.33] きっともう君の夢の中
-[01:23.69] もう一度 また聞かせてくれよ
-[01:27.97] 聞きたいんだ
-[01:30.97] 
-[01:29.66] もっと騒げ怪獣の歌
-[01:34.85] まだ消えない 夢の歌唱えて
-[01:41.82] 君がいつも歌う怪獣の歌
-[01:47.66] まだ消えない 口ずさんでしまうよ
-[01:55.66] 
-[01:55.50] 落ちてく過去は鮮明で
-[01:58.68] 見せたい未来は繊細で
-[02:01.86] すぎてく日々には鈍感な君へ
-[02:08.36] 
-[02:08.38] 落ちてく過去は鮮明で
-[02:11.44] 見せたい未来は繊細で
-[02:14.58] すぎてく日々には鈍感な君へ
-[02:21.08] 
-[02:20.43] ねぇ もっと騒げ怪獣の歌
-[02:26.25] まだ消えない 夢の歌唱えて
-[02:33.16] 君がいつも歌う怪獣の歌
-[02:39.01] まだ消えない 口ずさんでしまうよ yeah
-[02:49.51] 
-[02:46.06] ねぇ 僕ら 眠れない夜に手を伸ばして
-[02:50.46] 眠らない夜をまた伸ばして
-[02:53.64] 眠くないまだね
-[02:55.68] そんな日々にいたいのにな
-[03:01.68] 
-[02:59.34] 懲りずに 眠れない夜に手を伸ばして
-[03:03.29] 眠らない夜をまた伸ばして
-[03:06.42] 眠くないまだね
-[03:08.34] そんな夜に歌う 怪獣の歌
-[03:14.34] 
-[03:12.59] 落ちてく過去は鮮明で
-[03:15.56] 見せたい未来は繊細で
-[03:18.53] すぎてく日々には鈍感な君へ
-[03:25.03] 
-[03:24.33] ねぇ 落ちてく過去は鮮明で
-[03:28.29] 見せたい未来は繊細で
-[03:31.66] すぎてく日々には鈍感な君へ
+[00:00.33] Omoidasu no wa kimi no uta
+[00:03.68] Kaiwa yori mo senmei da
+[00:06.85] Doko ni itte shimatta no
+[00:10.05] Itsumo sagasun da yo
+[00:13.27] Omoidasu no wa
+[00:15.32] Kimi no uta
+[00:16.31] Utai warau kao ga senmei da
+[00:19.61] Kimi ni niau n da yo
+[00:22.94] Zutto miteitai yo
+[00:26.36] Demo saigo ni mitai no wa
+[00:29.22] Kitto mou kimi no yume no naka
+[00:32.52] Mou ichido
+[00:33.73] Mata kikasete kure yo
+[00:36.91] Kikitai n da
+[00:38.78] Motto
+[00:39.52] Sawage kaijuu no uta
+[00:43.93] Mada kienai
+[00:45.93] Yume no uta tonaete
+[00:50.88] Kimi ga itsumo
+[00:52.35] Utau kaijuu no uta
+[00:56.79] Mada kienai
+[00:58.74] Kuchizusande shimau yo
+[01:04.49] Omoidasu no wa
+[01:06.57] Kimi ga ita
+[01:07.88] Gitaa motteru
+[01:09.68] Kimi ga ita
+[01:10.91] Wasurerarenai n da yo
+[01:14.03] Dakara boku ga utau yo
+[01:17.47] Demo saigo ni mitai no wa
+[01:20.56] Kitto mou kimi no yume no naka
+[01:23.56] Mou ichido
+[01:24.81] Mata kikasete kure yo
+[01:28.14] Kikitai n da
+[01:29.52] Motto
+[01:30.67] Sawage kaijuu no uta
+[01:35.11] Mada kienai
+[01:37.15] Yume no uta tonaete
+[01:42.08] Kimi ga itsumo
+[01:43.43] Utau kaijuu no uta
+[01:47.99] Mada kienai
+[01:49.95] Kuchizusande shimau yo
+[01:55.76] Ochiteku kako wa senmei de
+[01:59.01] Misetai mirai wa sensai de
+[02:02.28] Sugiteku hibi ni wa donkan na kimi e
+[02:08.57] Ochiteku kako wa senmei de
+[02:11.79] Misetai mirai wa sensai de
+[02:14.71] Sugiteku hibi ni wa donkan na kimi e
+[02:20.60] Nee, motto
+[02:21.93] Sawage kaijuu no uta
+[02:26.39] Mada kienai
+[02:28.36] Yume no uta tonaete
+[02:33.22] Kimi ga itsumo
+[02:34.73] Utau kaijuu no uta
+[02:38.95] Mada kienai
+[02:41.10] Kuchizusande shimau yo
+[02:46.21] Nee, bokura
+[02:47.44] Nemurenai yoru ni te o nobashite
+[02:50.60] Nemuranai yoru o mata nobashite
+[02:53.84] Nemukunai mada ne
+[02:55.62] Sonna hibi de itai no ni na
+[02:59.47] Korizuni
+[03:00.41] Nemurenai yoru ni te o nobashite
+[03:03.43] Nemuranai yoru o mata nobashite
+[03:06.52] Nemukunai mada ne
+[03:08.53] Sonna yoru ni utau
+[03:10.91] Kaijuu no uta
+[03:12.54] (Ochiteku kako wa senmei de)
+[03:15.78] (Misetai mirai wa sensai de)
+[03:18.90] (Sugiteku hibi ni wa donkan na kimi e)
+[03:25.18] (Ochiteku kako wa senmei de)
+[03:28.38] (Misetai mirai wa sensai de)
+[03:31.55] (Sugiteku hibi ni wa donkan na kimi e)
 ```
